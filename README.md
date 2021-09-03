@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gui-pereira/)](https://www.linkedin.com/in/gui-pereira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepdo1508@gmail.com)](mailto:guilhermepdo1508@gmail.com/)
 
-### Hey 👋, eu sou o [Gui](https://guidpo0.github.io/)! 😁
+### Hey 👋, eu sou o Gui! 😁
 
 Olá, meu nome é Guilherme Pereira e sou estudante em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e em Bacharelado em Ciência da Computação na [Universidade Federal do ABC](https://www.ufabc.edu.br/).
 
@@ -9,8 +9,8 @@ Estou em transição de carreira para me tornar um desenvolvedor web full-stack.
 
 Fora programar, me interesso muito por basquete e música.
 
-- 📫 Como me contatar: guilhermepdo1508@gmail.com
 - 😄 Pronomes: Ele/Dele
+- 🖌️ [Portfólio](https://guidpo0.github.io/)
 - 📝 [Currículo](https://docs.google.com/document/d/12-DvPp9_A2BPmlpGKLlCIo5dLj3_iw0k/edit?usp=sharing&ouid=104499669736997630420&rtpof=true&sd=true)
 
 **Linguagens e Ferramentas:**
