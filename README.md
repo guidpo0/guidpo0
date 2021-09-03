@@ -1,7 +1,10 @@
 ### Hey 👋, eu sou o [Gui](https://guidpo0.github.io/)! 😁
 
-Olá, meu nome é Guilherme Pereira e sou estudante em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e em Bacharelado em Ciência da Computação na [Universidade Federal do ABC](https://www.ufabc.edu.br/). Estou em transição de carreira para me tornar um desenvolvedor web full-stack.
-Minhas skills em tecnologia envolvem MySQL, javascript, HTML, CSS, React, Redux, Jest. Fora programar, me interesso muito por basquete e música.
+Olá, meu nome é Guilherme Pereira e sou estudante em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e em Bacharelado em Ciência da Computação na [Universidade Federal do ABC](https://www.ufabc.edu.br/).
+
+Estou em transição de carreira para me tornar um desenvolvedor web full-stack.
+
+Fora programar, me interesso muito por basquete e música.
 
 - 📫 Como me contatar: guilhermepdo1508@gmail.com
 - 😄 Pronomes: Ele/Dele
