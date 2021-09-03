@@ -25,4 +25,4 @@ Fora programar, me interesso muito por basquete e música.
 ![Guidpo0 Github Stats](https://github-readme-stats.vercel.app/api?username=guidpo0&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidpo0&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guidpo0.guidpo0)
