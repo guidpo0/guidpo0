@@ -23,11 +23,9 @@ Fora programar, me interesso muito por basquete e música.
 ![Jest](https://img.shields.io/badge/-Jest-black?logo=jest&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=social)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?logo=nosql&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-black?logo=nodejs&style=social)&nbsp;&nbsp;
+![NodeJs](https://img.shields.io/badge/-Node.Js-black?logo=node.js&style=social)&nbsp;&nbsp;
 
 ![Guidpo0 Github Stats](https://github-readme-stats.vercel.app/api?username=guidpo0&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidpo0&hide=TeX&layout=compact)
