@@ -28,7 +28,6 @@ Fora programar, me interesso muito por basquete e música.
 ![Node.Js](https://img.shields.io/badge/-Node.Js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-black?logo=mocha&style=social)&nbsp;&nbsp;
 ![Chai](https://img.shields.io/badge/-Chai-black?logo=chai&style=social)&nbsp;&nbsp;
-![Sinon](https://img.shields.io/badge/-Sinon-black?logo=sinon&style=social)&nbsp;&nbsp;
 
 ![Guidpo0 Github Stats](https://github-readme-stats.vercel.app/api?username=guidpo0&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidpo0&hide=TeX&layout=compact)
