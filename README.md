@@ -20,7 +20,9 @@ Fora programar, me interesso muito por basquete e música.
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-black?logo=jest&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
