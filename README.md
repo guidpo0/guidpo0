@@ -1,11 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gui-pereira/)](https://www.linkedin.com/in/gui-pereira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepdo1508@gmail.com)](mailto:guilhermepdo1508@gmail.com)
 
-### Hey 👋, eu sou o Gui! 😁
+### Hey 👋, eu sou o Guilherme!
 
-Olá, meu nome é Guilherme Pereira e sou estudante em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e em Bacharelado em Ciência da Computação na [Universidade Federal do ABC](https://www.ufabc.edu.br/).
-
-Estou em transição de carreira para me tornar um desenvolvedor web full-stack.
+Sou Desenvolvedor Web Full Stack, formado na [Trybe](https://www.betrybe.com/) e cursando Bacharelado em Ciência da Computação na [Universidade Federal do ABC](https://www.ufabc.edu.br/).
 
 Fora programar, me interesso muito por basquete e música.
 
